@@ -1,4 +1,4 @@
-🟢 PROJECT COMPLETED: Mapping Healthcare Accessibility in Shagari LGA, Sokoto State 🇳🇬
+🟢 PROJECT COMPLETED: Mapping Healthcare Accessibility in Shagari LGA, Sokoto State Nigeria
 
 I'm excited to share my latest geospatial analysis project - mapping health facility service areas (2km & 5km reachability) for Shagari Local Government Area in Sokoto State, Nigeria.
 
